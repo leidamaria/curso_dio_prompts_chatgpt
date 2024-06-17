@@ -18,7 +18,7 @@ geradores de aplicativo e o sobrenicho é de Power Apps, o título deve ser épi
   <br|><br>
   <li>
     Faça um texto para ebook com foco no Power Apps, listando as várias formas de fazer aplicativos com um passo a passo para cada forma citada.
-Ao final, faça um capítulo com o exemplo de um aplicativo onde as pessoas podem agendar reuniões em uma sala de reunião <br>
+Ao final, faça um capítulo com o exemplo de um aplicativo onde as pessoas podem agendar reuniões em uma sala de reunião
     
 {REGRAS}
 
