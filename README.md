@@ -5,9 +5,10 @@
 https://github.com/leidamaria/curso_dio_prompts_chatgpt/blob/Meus_eBooks/Ebook%20Power%20Apps%20-%20Revolucionando%20a%20Gera%C3%A7%C3%A3o%20de%20Aplicativos.pdf
 <h3> TECNOLOGIAS UTILIZADAS NA ELABORAÇÃO DO EBOOK </h3>
 <ol>
-  <li>ChatGPT</li>
+  <li><a href="https://chatgpt.com/" target="_blank">ChatGPT</a></li>
   <li>Powerr Point</li>
-  <li>Showcode</li>
+  <li><a href="https://www.google.com" target="_blank">Google</a></li>
+  <li><a href="https://showcode.app" target="_blank">Showcode</a></li>
 </ol>
 <h3> PROMPTS UTILIZADOS NO CHATGPT</h3>
 <ol>
