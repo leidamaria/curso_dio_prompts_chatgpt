@@ -32,4 +32,6 @@ Sempre deixe um títuço sugestivo por tópico
     Elabore um agradecimento para inserir no ebook do Power Apps "Power Apps: Revolucionando a Geração de Aplicativos"
   </li>
 </ol>
+<br>
+___ F I M ___
 
