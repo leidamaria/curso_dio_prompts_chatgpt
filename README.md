@@ -4,6 +4,11 @@
 <h2> por Leida Maria do. S. Roch Taboada</h2>
 https://github.com/leidamaria/curso_dio_prompts_chatgpt.git
 <h3> TECNOLOGIAS UTILIZADAS </h3>
+<ol>
+  <li>ChatGPT</li>
+  <li>Powerr Point</li>
+  <li>Showcode</li>
+</ol>
 ChatGPT
 Power Point
 Show Code 
